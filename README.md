@@ -1,20 +1,20 @@
-Hi there, I'm [Owline-an] 👋
+Hi there, I'm Owline 👋
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DOwline%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
 </p>
 
-🚀 About Me
+🚀 About Us
 
-I am a passionate Full-Stack Developer and Tech Enthusiast with a focus on building efficient, scalable, and user-friendly applications. I love exploring new technologies, automating workflows, and contributing to open-source communities.
+We are Owline, a dedicated team of developers and tech enthusiasts focused on building high-performance solutions, automating complex workflows, and creating innovative experiences in the digital world.
 
-🔭 I’m currently working on Advanced Bot Development & Automation
+🔭 Current Focus: Advanced Bot Development, System Automation & Scalable Architectures.
 
-🌱 I’m currently learning Advanced System Architecture & Cloud Technologies
+🌱 Learning Path: Masterfully navigating Cloud Infrastructure and Next-Gen AI Integration.
 
-💬 Ask me about JavaScript, Python, Discord.js, and Web Performance
+💬 Expertise: Ask us about JavaScript, Python, Discord.js, and Backend Optimization.
 
-⚡ Fun fact: I believe that code is like humor; if you have to explain it, it’s bad.
+⚡ Philosophy: We transform complex problems into elegant, functional code.
 
 🛠 Tech Stack
 
@@ -27,20 +27,16 @@ I am a passionate Full-Stack Developer and Tech Enthusiast with a focus on build
 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[YourUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YourUsername]&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOwline%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DOwline%26layout%3Dcompact%26theme%3Dtokyonight" />
 </p>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[YourUsername]&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-📬 Connect with Me
+📬 Connect with Us
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[YourProfile]" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourName]" height="30" width="40" /></a>
-<a href="https://twitter.com/[YourHandle]" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YourName]" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://discord.com/users/[YourID]" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[YourName]" height="30" width="40" /></a>
+<a href="https://discord.gg/vgVkRTuZAJ" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-Join%2520Our%2520Server-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord Server" />
+</a>
 </p>
 
 <p align="center">
@@ -49,5 +45,5 @@ I am a passionate Full-Stack Developer and Tech Enthusiast with a focus on build
 
 
 
-⭐️ From <b>[YourName]</b>
+⭐️ Dedicated to Excellence by <b>Owline</b>
 </p>
