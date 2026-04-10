@@ -1,7 +1,7 @@
 Hi there, I'm Owline 👋
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DOwline%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
+<img src="[https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DOwline%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views](https://images-ext-1.discordapp.net/external/nCQlS_-HQubOTkOcQihfxPqnCDJn9Y3paUjYrE-hhy4/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/924785074715652147/433078245a08f21235f04f66559c82e7.webp?format=webp&width=648&height=648)" />
 </p>
 
 🚀 About Us
